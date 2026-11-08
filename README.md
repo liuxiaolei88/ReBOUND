@@ -2,7 +2,7 @@
 
 ### Reconstructing Post-Disaster Dynamic OD Flows with a Boundary-Guided Mixture of Experts
 
-This repository provides the official implementation of **ReBOUND**, accepted at the **[4th ACM SIGSPATIAL International Workshop on Human Mobility Prediction (HuMob 2026)](https://takayabe0505.github.io/humob-2026/)**.
+This repository provides the official implementation of **ReBOUND**, which won **2nd place in the HuMob 2026 Challenge** and was accepted at the **[4th ACM SIGSPATIAL International Workshop on Human Mobility Prediction (HuMob 2026)](https://takayabe0505.github.io/humob-2026/)**.
 
 ReBOUND reconstructs daily origin–destination (OD) flows across prolonged gaps during post-disaster recovery. It combines heterogeneous experts through boundary-anchored routing informed by observations on both sides of the gap and public recovery information, then applies progressive residual learning to correct shared and OD-specific errors.
 
